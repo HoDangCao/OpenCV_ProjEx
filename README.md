@@ -20,6 +20,10 @@ Explore fundamental computer vision tasks with **OpenCV** through simple yet pow
 <img src='./demos/AR_demo.gif' width=500>
 
 ### Real Time Emotion Recognition
+A project that
+- uses Haar Cascade classifier for face detection.
+- builds a CNN model for facial expression recognition (FER).
+
 Check this [link](https://github.com/HoDangCao/Real-time-Emotion-Recognition) for more details.
 
 <img src='https://github.com/HoDangCao/Real-time-Emotion-Recognition/blob/main/real-time_fer_demo.gif' width=500>
