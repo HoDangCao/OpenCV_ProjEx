@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ```
 
 ## Projects Included
-Each project includes detailed explanations, code comments, and adjustable parameters for experimentation. Check out the `notebook` for more deep understanding!
+Each project includes detailed explanations, code comments, and adjustable parameters for experimentation. Check out the `openCV_projEx.ipynb` notebook for more deep understanding!
 
 ### Contributing
 Feel free to contribute by adding more OpenCV-based projects or enhancing existing examples. Fork the repo, make your changes, and submit a pull request.
